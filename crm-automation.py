@@ -1,8 +1,8 @@
 from playwright.sync_api import sync_playwright
 
 CONTACTS_PAGE_URL = 'https://crm.na1.insightly.com/list/Contact/'
-EMAIL = 'tarek.harba2001b@gmail.com'
-PASSWORD = 'G4CZTh5PmRUH3Cb'
+EMAIL = 'EMAIL_HERE'
+PASSWORD = 'PASSWORD_HERE'
 
 SALUTATION = 'Mr.'
 FIRST_NAME = 'Saeed'
